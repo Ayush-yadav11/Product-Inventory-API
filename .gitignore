@@ -1,0 +1,15 @@
+# Build and binary directories
+bin/
+obj/
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# Visual Studio files
+.vs/
+*.user
+
+# Visual Studio Code files
+.vscode/
