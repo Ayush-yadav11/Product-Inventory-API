@@ -4,7 +4,28 @@ A RESTful API built with ASP.NET Core for managing product inventory. This API p
 
 ## Features
 
-## Bonus Features Implementation
+### Core Features
+
+- ✅ Product Management (CRUD Operations)
+  - Create new products
+  - Retrieve product details
+  - Update existing products
+  - Soft delete products
+- ✅ Product Attributes
+  - Name
+  - Description
+  - Price
+  - Stock Quantity
+  - Category
+- ✅ Advanced Querying
+  - Filter products by category
+  - Sort products by price
+  - Search by product name/description
+  - Pagination support
+- ✅ Stock Management
+  - Low stock alerts (when quantity < 5)
+
+### Bonus Features Implementation
 
 ### 1. Search Functionality
 
