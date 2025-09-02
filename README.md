@@ -2,9 +2,34 @@
 
 A RESTful API built with ASP.NET Core for managing product inventory. This API provides endpoints for creating, reading, updating, and deleting products, along with features like filtering, sorting, pagination, and search capabilities.
 
+### Import Collection
+Click the button below to open Postman:
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/aayush122yadav-3161403/workspace/inventoryapi/example/48024707-a4354dce-89aa-4799-bd8b-78a4593374cb?action=share&source=copy-link&creator=48024707)
 ## Features
 
-## Bonus Features Implementation
+### Core Features
+
+- ✅ Product Management (CRUD Operations)
+  - Create new products
+  - Retrieve product details
+  - Update existing products
+  - Soft delete products
+- ✅ Product Attributes
+  - Name
+  - Description
+  - Price
+  - Stock Quantity
+  - Category
+- ✅ Advanced Querying
+  - Filter products by category
+  - Sort products by price
+  - Search by product name/description
+  - Pagination support
+- ✅ Stock Management
+  - Low stock alerts (when quantity < 5)
+
+### Bonus Features Implementation
 
 ### 1. Search Functionality
 
